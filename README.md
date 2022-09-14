@@ -1,2 +1,2 @@
-# PROC18-V3ColorfullTrex
+trex really cool game
 Colorful Trex
